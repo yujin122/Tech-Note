@@ -24,7 +24,7 @@
     // 배열 값 출력
 	for(int i=0;num.length>i;i++) {
 			System.out.println("num["+i+"] = "+ num[i]);
-		}
+	}
 
     +)
     // 배열 선언과 동시에 크기 할당
