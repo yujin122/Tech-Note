@@ -28,7 +28,7 @@ num.add(40);	// add(val) 맨 뒤에 값 추가
 		
 num.add(1,15); // add(index, val), 해당 인덱스에 값 추가
 ```
-![3](https://user-images.githubusercontent.com/46274903/91692908-2a4c5c00-eba5-11ea-9a21-3cd2fa9f0fc3.PNG =700x500)
+<img src="https://user-images.githubusercontent.com/46274903/91692908-2a4c5c00-eba5-11ea-9a21-3cd2fa9f0fc3.PNG " width="700"  height="500">
 
 
 - 값이 추가 될 경우 맨 뒤 element 부터 뒤로 한칸씩 이동 후 해당 index의 element에 값을 추가한다.
@@ -37,7 +37,7 @@ num.add(1,15); // add(index, val), 해당 인덱스에 값 추가
 ```java
 num.remove(2); // remove(index), 해당 인덱스 값 삭제
 ```
-![4](https://user-images.githubusercontent.com/46274903/91693348-daba6000-eba5-11ea-8f9d-40f0f52d4f78.PNG =700x400)
+<img src="https://user-images.githubusercontent.com/46274903/91693348-daba6000-eba5-11ea-8f9d-40f0f52d4f78.PNG " width="700"  height="400">
 
 - 해당 index element 를 삭제 후 뒤에 있는 element를 앞으로 한칸씩 이동시킨다.
 
@@ -102,7 +102,7 @@ num.addFirst(30);
 num.addFirst(20);
 num.addFirst(10);
 ```
-![6](https://user-images.githubusercontent.com/46274903/91714025-d2721d00-ebc5-11ea-81ae-49d564e5fe0d.PNG =700x400)
+<img src="https://user-images.githubusercontent.com/46274903/91714025-d2721d00-ebc5-11ea-81ae-49d564e5fe0d.PNG  " width="700"  height="400">
 
 1. 노드 생성
 2.  새로운 노드에 HEAD가 가리키는 노드(20)를 지정
@@ -125,7 +125,7 @@ num.addLast(10);
 num.addLast(20);
 num.addLast(30);
 ```
-![7](https://user-images.githubusercontent.com/46274903/91715149-16feb800-ebc8-11ea-82c8-3577707d88df.PNG =700x400)
+<img src="https://user-images.githubusercontent.com/46274903/91715149-16feb800-ebc8-11ea-82c8-3577707d88df.PNG  " width="700"  height="400">
 
 1.  새로운 노드 생성
 2.  TAIL이 가리키는 노드(30)의 다음 노드로 새로운 노드를 지정
@@ -147,7 +147,7 @@ public void addLast(Object input) {
 ```java
 num.add(2,25);
 ```
-![8](https://user-images.githubusercontent.com/46274903/91716502-c76dbb80-ebca-11ea-9a6d-e4c9c349afdc.PNG =700x400)
+<img src="https://user-images.githubusercontent.com/46274903/91716502-c76dbb80-ebca-11ea-9a6d-e4c9c349afdc.PNG  " width="700"  height="400">
 
 1. temp1에 k번째 바로 전 노드를 지정
 2. temp2에 k번째 노드 지정
@@ -188,7 +188,7 @@ Node node(int index) {
 ```java
 num.removeFirst();
 ```
-![9](https://user-images.githubusercontent.com/46274903/91717542-aa39ec80-ebcc-11ea-85b8-961153e6dbc4.PNG =700x400)
+<img src="https://user-images.githubusercontent.com/46274903/91717542-aa39ec80-ebcc-11ea-85b8-961153e6dbc4.PNG  " width="700"  height="400">
 
 1. temp 에 head(첫번째 노드) 지정
 2.  head에 두번째 노드 지정
