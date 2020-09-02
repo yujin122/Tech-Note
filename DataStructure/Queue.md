@@ -21,8 +21,8 @@
 public class ArrayQueue {
 	private int max;	// 배열 크기
 	private Object que[];	// 배열
-	private int front;	// 맨 앞 배열
-	private int rear;	// 값이 들어있는 마지막 배열
+	private int front;	// 첫 위치
+	private int rear;	// 마지막 위치
 		
 	public ArrayQueue(int capacity) {
 		max = capacity;
