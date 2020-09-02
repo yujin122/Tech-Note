@@ -48,10 +48,10 @@ public int pop() {
 	}
 }
 ```
-**peak**
+**peek**
 스택에서 top이 가리키는 데이터를 읽음
 ```java
-public int peak() {
+public int peek() {
 	if(isEmpty()) {	//스택이 비었을 때
 		System.out.println("스택이 비어있습니다.");
 	return -1;
@@ -164,10 +164,10 @@ public int pop() {
 	}
 }
 ```
-**peak**
+**peek**
 스택에서 top이 가리키는 데이터를 읽음
 ```java
-public int peak() {
+public int peek() {
 	if(isEmpty()) {
 		System.out.println("스택이 비어있습니다.");
 		return -1;
