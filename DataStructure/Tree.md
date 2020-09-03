@@ -328,3 +328,7 @@ public static void main(String[] args) {
 5, 24 삭제
 중위순회 : 1 9 13 16 20 23 26 30 
 ```
+
+##### [참고자료]
+1. [enter link description here](https://yaboong.github.io/data-structures/2018/02/12/binary-search-tree/)
+2. [enter link description here](https://gmlwjd9405.github.io/2018/08/12/data-structure-tree.html)
