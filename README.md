@@ -3,8 +3,8 @@
 
 ## 📌Data Structure
 -  [자료구조(Data Structure)](DataStructure/Data_structure.md)
--  [배열(Array)](DataStructure/List.md)
--  [리스트(List)](DataStructure/Array.md)
+-  [배열(Array)](DataStructure/Array.md)
+-  [리스트(List)](DataStructure/List.md)
 -  [스택(Stack)](DataStructure/Stack.md)
 -  [큐(Queue)](DataStructure/Queue.md)
 -  [트리(Tree)](DataStructure/Tree.md)
