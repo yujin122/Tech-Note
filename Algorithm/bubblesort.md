@@ -1,6 +1,8 @@
 ﻿# 버블정렬(bubble sort)
 서로 `인접한 두 원소`의 대소를 비교하여 교환하여 정렬하는 알고리즘
 
+<img src="https://user-images.githubusercontent.com/46274903/92555051-c6f7b380-f2a1-11ea-9535-706c25c1d356.PNG " width="600"  height="">
+
 
 > **장점** 
 > 구현이 매우 간단하다.
