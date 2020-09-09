@@ -10,3 +10,11 @@
 -  [트리(Tree)](DataStructure/Tree.md)
 -  [힙(Heap)](DataStructure/heap.md)
 -  [해시 테이블(Hash Table)](DataStructure/HashTable.md)
+
+## 📌Algorithm
+- [알고리즘(Algorithm)](Algorithm/algorithm.md)
+- [선형검색(Linear Search) & 이진검색(Binary Search)](Algorithm/Search.md)
+- [버블정렬(Bubble Sort)](Algorithm/bubblesort.md)
+- [선택정렬(Selection Sort)](Algorithm/selectionsort.md)
+- [삽입정렬(Insertion Sort)](Algorithm/insertionsort.md)
+- [퀵정렬(Quick Sort)](Algorithm/quicksort.md)
