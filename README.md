@@ -18,3 +18,5 @@
 - [선택정렬(Selection Sort)](Algorithm/selectionsort.md)
 - [삽입정렬(Insertion Sort)](Algorithm/insertionsort.md)
 - [퀵정렬(Quick Sort)](Algorithm/quicksort.md)
+- [병합정렬(Merge Sort)](Algorithm/mergesort.md)
+- [힙정렬(Heap Sort)](Algorithm/heapsort.md)
