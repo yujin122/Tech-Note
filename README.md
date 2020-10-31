@@ -25,7 +25,8 @@
 - [LIS](Algorithm/lis.md)
 
 ## 📌Network
-
+- [OSI 7계층](Network/osi.md)
+- [TCP/UDP](Network/tcpudp.md)
 
 ## 📌Operating System
 
