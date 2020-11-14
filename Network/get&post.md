@@ -1,7 +1,7 @@
 ﻿# GET / POST 
 
 서버로 자신이 가지고 있는 `DATA를 전달`하기 위해 사용
-<br>
+<br><br>
 
 ## GET
 	
@@ -49,7 +49,9 @@
 > 멱등은 연산을 여러번 적용하더라도 **결과가 달라지지 않는 성질**.
 > 
 >  **GET**은 리소스를 조회할 때 사용되기 때문에 여러번 요청하여도 응답이 똑같지만 
+>
 >  **POST**는 리소스를 새로 생성하거나 업데이트를 할 때 사용되기 때문에 응답이 똑같지 않다.
+<br>
 
 ##### [참고문서]
 [1](https://noahlogs.tistory.com/35#:~:text=GET%20%EA%B3%BC%20POST%20%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90&text=%EC%82%AC%EC%9A%A9%EB%AA%A9%EC%A0%81%20:%20GET%EC%9D%80%20%EC%84%9C%EB%B2%84,%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%A0%20%EB%95%8C%20%EC%82%AC%EC%9A%A9%ED%95%9C%EB%8B%A4.&text=%EC%9A%94%EC%B2%AD%EC%97%90%20body%20%EC%9C%A0%EB%AC%B4%20:%20GET,%EB%A9%94%EC%8B%9C%EC%A7%80%EC%97%90%20body%EA%B0%80%20%EC%97%86%EB%8B%A4.)
