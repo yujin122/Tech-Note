@@ -34,6 +34,7 @@
 
 ## 📌JavaScript
 - [var, let, const 차이점](JavaScript/variable.md)
+- [Promise](JavaScript/promise.md)
 
 ## 📌Operating System
 
